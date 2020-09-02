@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">BillTools</string>
+
+
+    <!--登录专用-->
+    <string name="login">登录</string>
+    <string name="login_input_username_hint">账号</string>
+    <string name="login_input_username_hint_error">请输入正确的手机号或邮箱&#8230;</string>
+    <string name="login_hold_hint">记住密码</string>
+    <string name="login_forget_hint">忘记密码？</string>
+    <string name="login_register_hint">注册</string>
+    <string name="login_other_hint">其他方式登录</string>
+    <string name="register_input_username_hint">手机号</string>
+    <string name="register_username_hint">用户名</string>
+    <string name="register_sms_auth_code">短信验证码</string>
+    <string name="register_sms_hint">获取验证码</string>
+    <string name="register_sms_wait_hint">别激动,休息一下呗&#8230;</string>
+    <string name="loading_image">正在准备图片...</string>
+    <string name="register_done_hint">完成</string>
+    <string name="register_man_hint">男士</string>
+    <string name="register_female_hint">女士</string>
+    <string name="retrieve_pwd_step_hint">下一步</string>
+    <string name="retrieve_pwd_email_label_one">邮箱用户找回密码，请</string>
+    <string name="retrieve_pwd_email_label"><a>点击这里</a></string>
+    <string name="reset_pwd_hint">请输入至少六位新密码</string>
+    <string name="register_username_error">用户名太长&#8230;</string>
+    <string name="hint_password">密码</string>
+    <string name="hint_email">邮箱</string>
+    <string name="register_pwd_hint">请输入至少六位数密码</string>
+    <string name="hint_username_ok">请输入正确的手机号码</string>
+    <string name="user_hint_login">点击头像登录</string>
+    <string name="reset_pwd_label">重置密码</string>
+    <string name="retrieve_pwd_label">找回密码</string>
+    <string name="reset_pwd_submit">确认</string>
+    <string name="request_error_hint">网络请求失败,请重试&#8230;</string>
+    <string name="login_success_hint">登录成功</string>
+    <string name="send_sms_code_success_hint">已成功发送验证码</string>
+    <string name="reset_success_hint">密码重置成功</string>
+    <string name="register_success_hint">注册成功</string>
+    <string name="share_hint">抱歉,您未安装该应用,不能分享&#8230;</string>
+    <string name="login_hint">抱歉,您未安装该应用,不能登录&#8230;</string>
+    <string name="login_wechat_hint">正在启动微信中&#8230;</string>
+    <string name="login_tencent_hint">正在启动QQ中&#8230;</string>
+    <string name="login_weibo_hint">正在启动微博中&#8230;</string>
+    <string name="message_pwd_error">密码错误</string>
+    <string name="message_username_null">用户名未填写！！！</string>
+    <string name="tv_my_score">积分 0</string>
+    <string name="zero">0</string>
+
+    <string name="loading">加载中…</string>
+    <string name="state_network_error">网络错误</string>
+    <string name="state_load">正在加载…</string>
+    <string name="state_loading">正在加载…</string>
+    <string name="state_not_more">没有更多数据</string>
+    <string name="state_refreshing">正在刷新</string>
+    <string name="state_load_error">加载失败</string>
+    <string name="copy_success">复制成功</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!--Loading-->
+    <string name="load_msg">正在加载中&#8230;</string>
+    <string name="load_update">正在修改中&#8230;</string>
+    <string name="load_delete">正在删除中&#8230;</string>
+    <string name="load_send_code">正在发送验证码&#8230;</string>
+    <string name="load_verify">正在验证中&#8230;</string>
+    <string name="load_switch">正在切换中&#8230;</string>
+    <string name="load_login">正在登录中&#8230;</string>
+    <string name="load_sign">正在注册中&#8230;</string>
+
+    <!--about activity-->
+    <string name="about">关于CocoBill记账本</string>
+    <string name="about_introduce">简洁、便捷、纯粹记账\n\n
+        ------CocoBill是啥------\n\n
+        嗯~没错我就是个记账APP，功能不花哨主打实用，算账本来就是头疼事还整那些花里胡哨的功能干啥呢？所以我们这款记账APP就是简洁！实用！！！\n\n
+        ------CocoBill主要功能------\n\n
+        - 支持多账户记账\n
+        - 时间轴记账单，账单一目了然\n
+        - 支持账单数据导出，方便各个场景使用\n
+        - 数据同步，换手机，刷系统，账单轻松恢复\n
+        - 账单统计功能，支持消费分析，消费情况清晰透明\n
+    </string>
+    <string name="about_introduce2">ps:请勿在软件中填写个人隐私信息</string>
+    <string name="app_name_with_introduce">CocoBill - 理财的好帮手</string>
+    <string name="developers">开发人员:zhouass666\n
+        -------------------\n
+        <a href='https://github.com/zas023/CocoBill'>https://github.com/zas023/CocoBill</a>
+        \n-------------------\n
+        欢迎大家star和fork
+    </string>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="black_alpha_240">#f0000000</color>
+    <color name="list_item_background_pressed">#FCFCFC</color>
+    <color name="textBrown">#6A4A57</color>
+    <color name="colorDivide">#F9F9F9</color>
+    <color name="textMaple">#977F8A</color>
+    <color name="textRed">#ED5543</color>
+    <color name="textWhite">#FFFFFF</color>
+    <color name="background">#f7f7f7</color>
+    <color name="text_black3">#333333</color>
+    <color name="text_red">#FF5050</color>
+    <color name="text_black6">#666666</color>
+    <!--页面默认背景色-->
+    <color name="colorBackground">#F9F9F9</color>
+
+
+    <!--原谅绿-->
+    <color name="colorPrimary">#00BA91</color>
+    <color name="colorPrimaryDark">#00BA91</color>
+    <color name="colorAccent">#00BA91</color>
+
+    <!--酷炫黑-->
+    <color name="colorPrimaryDarkBlack">#010001</color>
+    <color name="colorPrimaryBlack">#010001</color>
+    <color name="colorAccentBlack">#010001</color>
+
+    <!--少女红-->
+    <color name="colorPrimaryDarkGreen">#FF5050</color>
+    <color name="colorPrimaryGreen">#FF5050</color>
+    <color name="colorAccentGreen">#FF5050</color>
+
+    <!--胖次蓝-->
+    <color name="colorPrimaryDarkBlue">#4E77FF</color>
+    <color name="colorPrimaryBlue">#4E77FF</color>
+    <color name="colorAccentBlue">#4E77FF</color>
+
+    <!--基佬紫-->
+    <color name="colorPrimaryDarkPurple">#A33DF9</color>
+    <color name="colorPrimaryPurple">#A33DF9</color>
+    <color name="colorAccentPurple">#A33DF9</color>
+
+    <!--活力橙-->
+    <color name="colorPrimaryDarkOrange">#FF9150</color>
+    <color name="colorPrimaryOrange">#FF9150</color>
+    <color name="colorAccentOrange">#FF9150</color>
+
+    <!--大地棕-->
+    <color name="colorPrimaryDarkBrown">#88564D</color>
+    <color name="colorPrimaryBrown">#88564D</color>
+    <color name="colorAccentBrown">#88564D</color>
+
+    <color name="white">#ffffff</color>
+
+    <!-- 登录模块-->
+    <color name="login_line_color">#dededf</color>
+    <color name="login_input_active">#31b968</color>
+    <color name="login_other_color">#cacaca</color>
+    <color name="account_input_bg_color">#33ffffff</color>
+    <color name="account_lock_bg">#ff43815c</color>
+    <color name="account_lock_font_color">#FF68997C</color>
+    <color name="account_input_color">#c9c9c9</color>
+    <color name="account_pressed_true">#14b94d</color>
+
+    <color name="bg_press">#ebebeb</color>\
+    <color name="bg_press_material">#d4d4d4</color>
+</resources>
